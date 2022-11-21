@@ -78,5 +78,5 @@ These are all the tasks of this project, the ones that are completed link to the
 
 ---
 ### Authors
-* **Hector Steve** - [hectorvladitok@gmail.com](https://github.com/H3c7o4)
-* **CYNTHIA OSAGIE** - [cynthiaadesuwaosagie@gmail.com](https://github.com/CynthiaAdesuwa)
+* **Pere Isenah** - [pereisenah@gmail.com](https://github.com/Pere-Isenah)
+* **Fimber K Elemuwa** - [fimber6@gmail.com](https://github.com/Fimber)
